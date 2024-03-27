@@ -56,12 +56,6 @@ After cloning, you can run the app using a live server:
 - You have to enter your Infomation to create a profile for you
 <img width="922" alt="login1" src="https://github.com/Lydia02/EfficientTaskPlanner/assets/37791436/3cab80ef-57b6-401c-ae18-599ba1097a35">
 
-
-### Adding a Task
-
-- Navigate to the "Add Task" section and enter the task's details.
-    - ![Add Task Screenshot](path/to/add_task_image.jpg)
-
 ### Tasks for the day
  Navigate to the "Task for the day" section and enter the task's details.
     - <img width="911" alt="createtask" src="https://github.com/Lydia02/EfficientTaskPlanner/assets/37791436/8108e4a1-7626-4c48-a0f7-f66a6ed465bf">
