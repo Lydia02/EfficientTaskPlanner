@@ -77,6 +77,12 @@ After cloning, you can run the app using a live server:
    <img width="947" alt="monthcreate" src="https://github.com/Lydia02/EfficientTaskPlanner/assets/37791436/46ab272a-d178-4da7-9e49-8fd88303d379">
 
 
+### Complete Task
+ click on the checkbox mark task completed.
+
+<img width="895" alt="markasdone" src="https://github.com/Lydia02/EfficientTaskPlanner/assets/37791436/2d7b2f3c-7c98-4545-b9a4-8984105e94b1">
+
+
 ### All Tasks
  Navigate to the "All Task" section and to view all tasks.
     - <img width="881" alt="alltask" src="https://github.com/Lydia02/EfficientTaskPlanner/assets/37791436/f0e67a87-4b56-40fc-8f0f-2b979186d9b9">
