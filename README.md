@@ -31,6 +31,9 @@ The Efficient Task Planner App is a user-friendly tool designed to help you mana
 
 ## Getting Started
 
+## LINK TO THE DOCKER HUB
+[DOCKER-HUB](https://hub.docker.com/r/lydia02/efficient-task-planner/tags).
+
 ### Installation
 
 To use the Efficient Task Planner App, simply clone the repository to your local machine:
@@ -99,6 +102,13 @@ Run your Docker container using:
 ```shell
 docker run -dp 80:80 lydia02/efficient-task-planner
 ```
+
+### Pushing the Docker Container
+
+Push your Docker container using:
+
+[DOCKER HUB](https://hub.docker.com/r/lydia02/efficient-task-planner/tags).
+
 
 ## Author
 
