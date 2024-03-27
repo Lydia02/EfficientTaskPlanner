@@ -1,4 +1,5 @@
-# Efficient Task Planner App README
+## Efficient Task Planner
+Welcome to the Efficient Task Planner App, your go-to digital assistant for managing tasks with ease and efficiency. Designed with productivity and user-friendliness in mind, this app helps you keep track of your daily, weekly, and monthly tasks in one intuitive interface. Let's dive into how you can leverage this app to enhance your task management process
 
 ## Table of Contents
 
@@ -35,7 +36,7 @@ The Efficient Task Planner App is a user-friendly tool designed to help you mana
 To use the Efficient Task Planner App, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/lydia02/efficient-task-planner.git
+git clone https://github.com/lydia02/EfficientTaskPlanner.git
 ```
 
 ### Running the Application Locally
@@ -50,6 +51,7 @@ After cloning, you can run the app using a live server:
 
 ### Login in
 - You have to enter your Infomation to create a profile for you
+<img width="922" alt="login1" src="https://github.com/Lydia02/EfficientTaskPlanner/assets/37791436/3cab80ef-57b6-401c-ae18-599ba1097a35">
 
 
 ### Adding a Task
@@ -59,25 +61,26 @@ After cloning, you can run the app using a live server:
 
 ### Tasks for the day
  Navigate to the "Task for the day" section and enter the task's details.
-    - ![Add Task Screenshot](path/to/add_task_image.jpg)
+    - <img width="911" alt="createtask" src="https://github.com/Lydia02/EfficientTaskPlanner/assets/37791436/8108e4a1-7626-4c48-a0f7-f66a6ed465bf">
+
 
 ### Tasks for the week
  Navigate to the "Task for the week" section and enter the task's details.
-    - ![Add Task Screenshot](path/to/add_task_image.jpg)
+    - <img width="890" alt="taskforheweek" src="https://github.com/Lydia02/EfficientTaskPlanner/assets/37791436/5f101d3d-d427-4a0f-a002-0732ff5de650">
+
 
 ### Tasks for the month
  Navigate to the "Task for the month" section and enter the task's details.
-    - ![Add Task Screenshot](path/to/add_task_image.jpg)
+   <img width="947" alt="monthcreate" src="https://github.com/Lydia02/EfficientTaskPlanner/assets/37791436/46ab272a-d178-4da7-9e49-8fd88303d379">
+
 
 ### All Tasks
  Navigate to the "All Task" section and to view all tasks.
-    - ![Add Task Screenshot](path/to/add_task_image.jpg)
+    - <img width="881" alt="alltask" src="https://github.com/Lydia02/EfficientTaskPlanner/assets/37791436/f0e67a87-4b56-40fc-8f0f-2b979186d9b9">
 
+### Logout
+<img width="869" alt="logout" src="https://github.com/Lydia02/EfficientTaskPlanner/assets/37791436/7e422bb7-d819-4753-a0d8-9cb45d0c3b34">
 
-### Managing Tasks
-
-- Use the interface to view, complete, or delete tasks.
-    - ![Manage Tasks Screenshot](path/to/manage_tasks_image.jpg)
 
 ## Docker Deployment
 
