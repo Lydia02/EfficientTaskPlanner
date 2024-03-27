@@ -81,6 +81,15 @@ After cloning, you can run the app using a live server:
  Navigate to the "All Task" section and to view all tasks.
     - <img width="881" alt="alltask" src="https://github.com/Lydia02/EfficientTaskPlanner/assets/37791436/f0e67a87-4b56-40fc-8f0f-2b979186d9b9">
 
+### Delete a Task
+ Navigate to the "delete icon" to delete desired task(s).
+ <img width="880" alt="deleteatask" src="https://github.com/Lydia02/EfficientTaskPlanner/assets/37791436/66332ad9-24e3-4926-adbe-4f3593f2d379">
+
+### Delete All Tasks
+ Navigate to the "three column at the top right" to delete all tasks.
+ 
+<img width="926" alt="deleteall" src="https://github.com/Lydia02/EfficientTaskPlanner/assets/37791436/ad356e86-c654-4bf4-9c59-2576e7525a36">
+
 ### Logout
 <img width="869" alt="logout" src="https://github.com/Lydia02/EfficientTaskPlanner/assets/37791436/7e422bb7-d819-4753-a0d8-9cb45d0c3b34">
 
