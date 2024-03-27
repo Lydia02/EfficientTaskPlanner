@@ -121,7 +121,7 @@ Push your Docker container using:
 
 ## Author
 
-Developed by Lydia Ojoawo - [GitHub: lydia02](https://github.com/lydia02)
+Developed by Lydia Ojoawo - [Lydia02](https://github.com/lydia02)
 
 ## License
 
